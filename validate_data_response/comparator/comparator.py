@@ -11,7 +11,7 @@ class Comparator:
 
         csv_key = csv_row[0]
         if csv_key not in json_keys:
-            print(f"[ERROR 404]: The key '{csv_key}' from JSON was not found in CSV.\n")
+            print(f"[ERROR 404] The key '{csv_key}' from JSON was not found in CSV.\n")
             return False
         
         return True
@@ -22,7 +22,7 @@ class Comparator:
 
         json_key = json_row[0]
         if json_key not in csv_keys:
-            print(f"[ERROR 404]: The key '{json_key}' from CSV was not found in JSON.\n")
+            print(f"[ERROR 404] The key '{json_key}' from CSV was not found in JSON.\n")
             return False
         
         return True
@@ -57,7 +57,7 @@ class Comparator:
                     csv_normalized_value = str(csv_value).lower().strip().replace('\n', '').replace('\r', '')
 
                     if json_normalized_value != csv_normalized_value:
-                        print(f"[ERROR 400]: Row {idx + 2} | Key = {json_row[0]} | Column '{self.json_df.columns[col]}'. \n\nJSON = {json_normalized_value}\nCSVV = {csv_normalized_value}\n")
+                        print(f"[ERROR 400] Row {idx + 2} | Key = {json_row[0]} | Column '{self.json_df.columns[col]}'. \n\nJSON = {json_value}\nCSVV = {csv_value}\n")
                         number_of_failures += 1
 
                 # If both values are None, they are considered equal
@@ -66,7 +66,7 @@ class Comparator:
                 
                 # If one of the values is None, it is considered a failure
                 else:
-                    print(f"[ERROR 400]: Row {idx + 2} | Key = {json_row[0]} | Column '{self.json_df.columns[col]}'. \n\nJSON = {json_value}\nCSVV = {csv_value}\n")
+                    print(f"[ERROR 400] Row {idx + 2} | Key = {json_row[0]} | Column '{self.json_df.columns[col]}'. \n\nJSON = {json_value}\nCSVV = {csv_value}\n")
                     number_of_failures += 1
 
         print(f"\nAnalysis completed with {number_of_entities_not_found} entities not found and {number_of_failures} failures.\n")
