@@ -1,4 +1,4 @@
-from accessibility_practice.accessibility_practice_dto import AccessibilityPracticeDto
+from accessibility_practice.accessibility_practice_dto import AirlineOperatorDto
 
 class AccessibilityPracticeProcessor:
     def __init__(self, accessibility_practices):
@@ -35,7 +35,7 @@ class AccessibilityPracticeProcessor:
         guidance = accessibility_practice['requireLegalGuidanceExternalAgency']
         references = accessibility_practice['legalPrescriptiveReferences']
 
-        return AccessibilityPracticeDto(practice_code, dimension, group, scope, coverage, name, description, dispensable_by, prescriptive, level1, level2, level3, level4, level5, guidance, references)
+        return AirlineOperatorDto(practice_code, dimension, group, scope, coverage, name, description, dispensable_by, prescriptive, level1, level2, level3, level4, level5, guidance, references)
 
     def pre_processor(self):
         accessibility_practices_modified = []

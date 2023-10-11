@@ -1,0 +1,3370 @@
+{
+    "data": {
+        "operatorsCompanies": {
+            "totalPages": 1,
+            "totalOperatorCompanies": 280,
+            "data": [
+                {
+                    "name": "ABX Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ABX",
+                    "internationalAirTransportAssociation": "GB",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aegean Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AEE",
+                    "internationalAirTransportAssociation": "A3",
+                    "country": {
+                        "name": "Grécia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aer Lingus",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "EIN",
+                    "internationalAirTransportAssociation": "EI",
+                    "country": {
+                        "name": "Irlanda"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aero Republica",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RPB",
+                    "internationalAirTransportAssociation": "P5",
+                    "country": {
+                        "name": "Colômbia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aeroflot",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AFL",
+                    "internationalAirTransportAssociation": "SU",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aerolineas Argentinas",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ARG",
+                    "internationalAirTransportAssociation": "AR",
+                    "country": {
+                        "name": "Argentina"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aeromar",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TAO",
+                    "internationalAirTransportAssociation": "VW",
+                    "country": {
+                        "name": "México"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aeromexico",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AMX",
+                    "internationalAirTransportAssociation": "AM",
+                    "country": {
+                        "name": "México"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Africa World Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AFW",
+                    "internationalAirTransportAssociation": "AW",
+                    "country": {
+                        "name": "Gana"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Algérie",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DAH",
+                    "internationalAirTransportAssociation": "AH",
+                    "country": {
+                        "name": "Argélia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Arabia",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ABY",
+                    "internationalAirTransportAssociation": "G9",
+                    "country": {
+                        "name": "Emirados Árabes Unidos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Astana",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KZR",
+                    "internationalAirTransportAssociation": "KC",
+                    "country": {
+                        "name": "Cazaquistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Austral",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "REU",
+                    "internationalAirTransportAssociation": "UU",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Baltic",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BTI",
+                    "internationalAirTransportAssociation": "BT",
+                    "country": {
+                        "name": "Letônia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Botswana",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BOT",
+                    "internationalAirTransportAssociation": "BP",
+                    "country": {
+                        "name": "Botsuana"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Burkina",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VBW",
+                    "internationalAirTransportAssociation": "2J",
+                    "country": {
+                        "name": "Burkina Faso"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Cairo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MSC",
+                    "internationalAirTransportAssociation": "SM",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Caledonie",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TPC",
+                    "internationalAirTransportAssociation": "TY",
+                    "country": {
+                        "name": "Nova Caledônia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Canada",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ACA",
+                    "internationalAirTransportAssociation": "AC",
+                    "country": {
+                        "name": "Canadá"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Caraibes",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FWI",
+                    "internationalAirTransportAssociation": "TX",
+                    "country": {
+                        "name": "Guadeloupe"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air China",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CCA",
+                    "internationalAirTransportAssociation": "CA",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Corsica",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CCM",
+                    "internationalAirTransportAssociation": "XK",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Dolomiti",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DLA",
+                    "internationalAirTransportAssociation": "EN",
+                    "country": {
+                        "name": "Itália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Europa",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AEA",
+                    "internationalAirTransportAssociation": "UX",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air France",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AFR",
+                    "internationalAirTransportAssociation": "AF",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Guilin",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CGH",
+                    "internationalAirTransportAssociation": "GT",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air India",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AIC",
+                    "internationalAirTransportAssociation": "AI",
+                    "country": {
+                        "name": "Índia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Koryo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KOR",
+                    "internationalAirTransportAssociation": "JS",
+                    "country": {
+                        "name": "República Popular Democrática da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Macau",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AMU",
+                    "internationalAirTransportAssociation": "NX",
+                    "country": {
+                        "name": "Macao"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Madagascar",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MDG",
+                    "internationalAirTransportAssociation": "MD",
+                    "country": {
+                        "name": "Madagascar"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Malta",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AMC",
+                    "internationalAirTransportAssociation": "KM",
+                    "country": {
+                        "name": "Malta"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Mauritius",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MAU",
+                    "internationalAirTransportAssociation": "MK",
+                    "country": {
+                        "name": "Maurício"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Moldova",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MLD",
+                    "internationalAirTransportAssociation": "9U",
+                    "country": {
+                        "name": "Moldávia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air New Zealand",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ANZ",
+                    "internationalAirTransportAssociation": "NZ",
+                    "country": {
+                        "name": "Nova Zelândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Niugini",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ANG",
+                    "internationalAirTransportAssociation": "PX",
+                    "country": {
+                        "name": "Papua Nova Guiné"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Nostrum",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ANE",
+                    "internationalAirTransportAssociation": "YW",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Peace",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "APK",
+                    "internationalAirTransportAssociation": "P4",
+                    "country": {
+                        "name": "Nigéria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Serbia",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ASL",
+                    "internationalAirTransportAssociation": "JU",
+                    "country": {
+                        "name": "Sérvia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Seychelles",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SEY",
+                    "internationalAirTransportAssociation": "HM",
+                    "country": {
+                        "name": "Seichelles"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Tahiti",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VTA",
+                    "internationalAirTransportAssociation": "VT",
+                    "country": {
+                        "name": "Polinésia Francesa"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Tahiti Nui",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "THT",
+                    "internationalAirTransportAssociation": "TN",
+                    "country": {
+                        "name": "Polinésia Francesa"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Tanzania",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ATC",
+                    "internationalAirTransportAssociation": "TC",
+                    "country": {
+                        "name": "Tanzânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Transat",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TSC",
+                    "internationalAirTransportAssociation": "TS",
+                    "country": {
+                        "name": "Canadá"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Air Vanuatu",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AVN",
+                    "internationalAirTransportAssociation": "NF",
+                    "country": {
+                        "name": "Vanuatu"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "AirBridgeCargo Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ABW",
+                    "internationalAirTransportAssociation": "RU",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Aircalin",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ACI",
+                    "internationalAirTransportAssociation": "SB",
+                    "country": {
+                        "name": "Nova Caledônia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Airlink",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LNK",
+                    "internationalAirTransportAssociation": "4Z",
+                    "country": {
+                        "name": "África do Sul"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Alaska Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ASA",
+                    "internationalAirTransportAssociation": "AS",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Albastar",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LAV",
+                    "internationalAirTransportAssociation": "AP",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Allied Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AJK",
+                    "internationalAirTransportAssociation": "4W",
+                    "country": {
+                        "name": "Nigéria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "AlMasria Universal Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LMU",
+                    "internationalAirTransportAssociation": "UJ",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "American Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AAL",
+                    "internationalAirTransportAssociation": "AA",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "ANA",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ANA",
+                    "internationalAirTransportAssociation": "NH",
+                    "country": {
+                        "name": "Japão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "APG Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RIV",
+                    "internationalAirTransportAssociation": "GP",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Arik Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ARA",
+                    "internationalAirTransportAssociation": "W3",
+                    "country": {
+                        "name": "Nigéria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Arkia Israeli Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AIZ",
+                    "internationalAirTransportAssociation": "IZ",
+                    "country": {
+                        "name": "Israel"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Asiana Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AAR",
+                    "internationalAirTransportAssociation": "OZ",
+                    "country": {
+                        "name": "República da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "ASKY",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SKK",
+                    "internationalAirTransportAssociation": "KP",
+                    "country": {
+                        "name": "Togo"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "ASL Airlines France",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FPO",
+                    "internationalAirTransportAssociation": "5O",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Atlantic Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FLI",
+                    "internationalAirTransportAssociation": "RC",
+                    "country": {
+                        "name": "Ilhas Faroe"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Atlas Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GTI",
+                    "internationalAirTransportAssociation": "5Y",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Austrian",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AUA",
+                    "internationalAirTransportAssociation": "OS",
+                    "country": {
+                        "name": "Áustria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Avianca",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AVA",
+                    "internationalAirTransportAssociation": "AV",
+                    "country": {
+                        "name": "Colômbia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Avianca Costa Rica",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LRC",
+                    "internationalAirTransportAssociation": "LR",
+                    "country": {
+                        "name": "Costa Rica"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Avianca Ecuador",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GLG",
+                    "internationalAirTransportAssociation": "2K",
+                    "country": {
+                        "name": "Equador"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Azerbaijan Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AHY",
+                    "internationalAirTransportAssociation": "J2",
+                    "country": {
+                        "name": "Azerbaijão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Azores Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RZO",
+                    "internationalAirTransportAssociation": "S4",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Azul Brazilian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AZU",
+                    "internationalAirTransportAssociation": "AD",
+                    "country": {
+                        "name": "Brasil"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Bahamasair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BHS",
+                    "internationalAirTransportAssociation": "UP",
+                    "country": {
+                        "name": "Bahamas"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Bamboo Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BAV",
+                    "internationalAirTransportAssociation": "QH",
+                    "country": {
+                        "name": "Vietnã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Bangkok Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BKP",
+                    "internationalAirTransportAssociation": "PG",
+                    "country": {
+                        "name": "Tailândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Batik Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BTK",
+                    "internationalAirTransportAssociation": "ID",
+                    "country": {
+                        "name": "Indonésia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Belavia Belarusian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BRU",
+                    "internationalAirTransportAssociation": "B2",
+                    "country": {
+                        "name": "Belarus"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Biman Bangladesh Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BBC",
+                    "internationalAirTransportAssociation": "BG",
+                    "country": {
+                        "name": "Bangladesh"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Binter Canarias",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IBB",
+                    "internationalAirTransportAssociation": "NT",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Blue Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BMS",
+                    "internationalAirTransportAssociation": "0B",
+                    "country": {
+                        "name": "Romênia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Blue Panorama",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BPA",
+                    "internationalAirTransportAssociation": "BV",
+                    "country": {
+                        "name": "Itália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "BoA Boliviana de Aviacion",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BOV",
+                    "internationalAirTransportAssociation": "OB",
+                    "country": {
+                        "name": "Bolívia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Braathens Regional Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BRX",
+                    "internationalAirTransportAssociation": "TF",
+                    "country": {
+                        "name": "Suécia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "British Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BAW",
+                    "internationalAirTransportAssociation": "BA",
+                    "country": {
+                        "name": "Reino Unido"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Brussels Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BEL",
+                    "internationalAirTransportAssociation": "SN",
+                    "country": {
+                        "name": "Bélgica"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Bulgaria Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LZB",
+                    "internationalAirTransportAssociation": "FB",
+                    "country": {
+                        "name": "Bulgária"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cabo Verde Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TCV",
+                    "internationalAirTransportAssociation": "VR",
+                    "country": {
+                        "name": "Cabo Verde"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "CAL Cargo Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ICL",
+                    "internationalAirTransportAssociation": "5C",
+                    "country": {
+                        "name": "Israel"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Camair-Co",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CRC",
+                    "internationalAirTransportAssociation": "QC",
+                    "country": {
+                        "name": "Camarões"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cambodia Angkor Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KHV",
+                    "internationalAirTransportAssociation": "K6",
+                    "country": {
+                        "name": "Camboja"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Capital Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CBJ",
+                    "internationalAirTransportAssociation": "JD",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cargojet Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CJT",
+                    "internationalAirTransportAssociation": "W8",
+                    "country": {
+                        "name": "Canadá"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cargolux",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CLX",
+                    "internationalAirTransportAssociation": "CV",
+                    "country": {
+                        "name": "Luxemburgo"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Caribbean Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BWA",
+                    "internationalAirTransportAssociation": "BW",
+                    "country": {
+                        "name": "Trinidad e Tobago"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Carpatair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KRP",
+                    "internationalAirTransportAssociation": "V3",
+                    "country": {
+                        "name": "Romênia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cathay Pacific",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CPA",
+                    "internationalAirTransportAssociation": "CX",
+                    "country": {
+                        "name": "Hong Kong"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cebu Pacific",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CEB",
+                    "internationalAirTransportAssociation": "5J",
+                    "country": {
+                        "name": "Filipinas"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CAL",
+                    "internationalAirTransportAssociation": "CI",
+                    "country": {
+                        "name": "Taiwan"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Cargo Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CKK",
+                    "internationalAirTransportAssociation": "CK",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Eastern",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CES",
+                    "internationalAirTransportAssociation": "MU",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Express Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HXA",
+                    "internationalAirTransportAssociation": "G5",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Postal Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CYZ",
+                    "internationalAirTransportAssociation": "CF",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "China Southern Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSN",
+                    "internationalAirTransportAssociation": "CZ",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "CityJet",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BCY",
+                    "internationalAirTransportAssociation": "WX",
+                    "country": {
+                        "name": "Irlanda"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Condor",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CFG",
+                    "internationalAirTransportAssociation": "DE",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Congo Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CGA",
+                    "internationalAirTransportAssociation": "8Z",
+                    "country": {
+                        "name": "República Democrática do Congo"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "COPA Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CMP",
+                    "internationalAirTransportAssociation": "CM",
+                    "country": {
+                        "name": "Panamá"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Corendon Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CAI",
+                    "internationalAirTransportAssociation": "XC",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Corsair International",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CRL",
+                    "internationalAirTransportAssociation": "SS",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Croatia Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CTN",
+                    "internationalAirTransportAssociation": "OU",
+                    "country": {
+                        "name": "Croácia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cubana",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CUB",
+                    "internationalAirTransportAssociation": "CU",
+                    "country": {
+                        "name": "Cuba"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Cyprus Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CYP",
+                    "internationalAirTransportAssociation": "CY",
+                    "country": {
+                        "name": "Chipre"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Czech Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSA",
+                    "internationalAirTransportAssociation": "OK",
+                    "country": {
+                        "name": "República Tcheca"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Delta Air Lines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DAL",
+                    "internationalAirTransportAssociation": "DL",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "DHL Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DHK",
+                    "internationalAirTransportAssociation": "D0",
+                    "country": {
+                        "name": "Reino Unido"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "DHL Aviation",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DHX",
+                    "internationalAirTransportAssociation": "ES*",
+                    "country": {
+                        "name": "Barein"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Eastern Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "EZE",
+                    "internationalAirTransportAssociation": "T3",
+                    "country": {
+                        "name": "Reino Unido"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Egyptair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MSR",
+                    "internationalAirTransportAssociation": "MS",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "EL AL",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ELY",
+                    "internationalAirTransportAssociation": "LY",
+                    "country": {
+                        "name": "Israel"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Emirates",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "UAE",
+                    "internationalAirTransportAssociation": "EK",
+                    "country": {
+                        "name": "Emirados Árabes Unidos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Ethiopian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ETH",
+                    "internationalAirTransportAssociation": "ET",
+                    "country": {
+                        "name": "Etiópia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Etihad Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ETD",
+                    "internationalAirTransportAssociation": "EY",
+                    "country": {
+                        "name": "Emirados Árabes Unidos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "EuroAtlantic Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MMZ",
+                    "internationalAirTransportAssociation": "YU",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "European Air Transport",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "BCS",
+                    "internationalAirTransportAssociation": "QY",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Eurowings",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "EWG",
+                    "internationalAirTransportAssociation": "EW",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "EVA Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "EVA",
+                    "internationalAirTransportAssociation": "BR",
+                    "country": {
+                        "name": "Taiwan"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Evelop Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "EVE",
+                    "internationalAirTransportAssociation": "E9",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "FedEx Express",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FDX",
+                    "internationalAirTransportAssociation": "FX",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Fiji Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FJI",
+                    "internationalAirTransportAssociation": "FJ",
+                    "country": {
+                        "name": "Fiji"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Finnair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FIN",
+                    "internationalAirTransportAssociation": "AY",
+                    "country": {
+                        "name": "Finlândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "flydubai",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FDB",
+                    "internationalAirTransportAssociation": "FZ",
+                    "country": {
+                        "name": "Emirados Árabes Unidos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "FlyEgypt",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FEG",
+                    "internationalAirTransportAssociation": "FT",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Flynas",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KNE",
+                    "internationalAirTransportAssociation": "XY",
+                    "country": {
+                        "name": "Arábia Saudita"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Freebird Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FHY",
+                    "internationalAirTransportAssociation": "FH",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "French Bee",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FBU",
+                    "internationalAirTransportAssociation": "BF",
+                    "country": {
+                        "name": "França"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Fuzhou Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "FZA",
+                    "internationalAirTransportAssociation": "FU",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Garuda Indonesia",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GIA",
+                    "internationalAirTransportAssociation": "GA",
+                    "country": {
+                        "name": "Indonésia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Georgian Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TGZ",
+                    "internationalAirTransportAssociation": "A9",
+                    "country": {
+                        "name": "Geórgia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "German Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GER",
+                    "internationalAirTransportAssociation": "ZQ",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "GOL Linhas Aereas",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GLO",
+                    "internationalAirTransportAssociation": "G3",
+                    "country": {
+                        "name": "Brasil"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Gulf Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GFA",
+                    "internationalAirTransportAssociation": "GF",
+                    "country": {
+                        "name": "Barein"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "GX Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CBG",
+                    "internationalAirTransportAssociation": "GX",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hahn Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HHN",
+                    "internationalAirTransportAssociation": "HR*",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hainan Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CHH",
+                    "internationalAirTransportAssociation": "HU",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hawaiian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HAL",
+                    "internationalAirTransportAssociation": "HA",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hebei Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HBH",
+                    "internationalAirTransportAssociation": "NS",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hi Fly",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HFY",
+                    "internationalAirTransportAssociation": "5K",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hong Kong Air Cargo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HKC",
+                    "internationalAirTransportAssociation": "RH",
+                    "country": {
+                        "name": "Hong Kong"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hong Kong Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CRK",
+                    "internationalAirTransportAssociation": "HX",
+                    "country": {
+                        "name": "Hong Kong"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Hong Kong Express Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HKE",
+                    "internationalAirTransportAssociation": "UO",
+                    "country": {
+                        "name": "Hong Kong"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "IBERIA",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IBE",
+                    "internationalAirTransportAssociation": "IB",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Icelandair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ICE",
+                    "internationalAirTransportAssociation": "FI",
+                    "country": {
+                        "name": "Islândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "IndiGo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IGO",
+                    "internationalAirTransportAssociation": "6E",
+                    "country": {
+                        "name": "Índia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Iran Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IRA",
+                    "internationalAirTransportAssociation": "IR",
+                    "country": {
+                        "name": "Irã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Iran Airtour Airline",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IRB",
+                    "internationalAirTransportAssociation": "B9",
+                    "country": {
+                        "name": "Irã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Iran Aseman Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IRC",
+                    "internationalAirTransportAssociation": "EP",
+                    "country": {
+                        "name": "Irã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Israir",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ISR",
+                    "internationalAirTransportAssociation": "6H",
+                    "country": {
+                        "name": "Israel"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "ITA",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "",
+                    "internationalAirTransportAssociation": "AZ",
+                    "country": {
+                        "name": "Itália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Japan Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JAL",
+                    "internationalAirTransportAssociation": "JL",
+                    "country": {
+                        "name": "Japão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Japan Transocean Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JTA",
+                    "internationalAirTransportAssociation": "NU",
+                    "country": {
+                        "name": "Japão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Jazeera Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JZR",
+                    "internationalAirTransportAssociation": "J9",
+                    "country": {
+                        "name": "Kuwait"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Jeju Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JJA",
+                    "internationalAirTransportAssociation": "7C",
+                    "country": {
+                        "name": "República da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "JetBlue",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JBU",
+                    "internationalAirTransportAssociation": "B6",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Jin Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JNA",
+                    "internationalAirTransportAssociation": "LJ",
+                    "country": {
+                        "name": "República da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Jordan Aviation",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "JAV",
+                    "internationalAirTransportAssociation": "R5",
+                    "country": {
+                        "name": "Jordânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Juneyao Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DKH",
+                    "internationalAirTransportAssociation": "HO",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Kam Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KMF",
+                    "internationalAirTransportAssociation": "RQ*",
+                    "country": {
+                        "name": "Afeganistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Kenya Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KQA",
+                    "internationalAirTransportAssociation": "KQ",
+                    "country": {
+                        "name": "Quênia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "KLM",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KLM",
+                    "internationalAirTransportAssociation": "KL",
+                    "country": {
+                        "name": "Holanda"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Korean Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KAL",
+                    "internationalAirTransportAssociation": "KE",
+                    "country": {
+                        "name": "República da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Kunming Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KNA",
+                    "internationalAirTransportAssociation": "KY",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Kuwait Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KAC",
+                    "internationalAirTransportAssociation": "KU",
+                    "country": {
+                        "name": "Kuwait"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LAM",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LAM",
+                    "internationalAirTransportAssociation": "TM",
+                    "country": {
+                        "name": "Moçambique"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Lao Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LAO",
+                    "internationalAirTransportAssociation": "QV",
+                    "country": {
+                        "name": "Laos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Brasil",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TAM",
+                    "internationalAirTransportAssociation": "JJ",
+                    "country": {
+                        "name": "Brasil"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Colombia",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ARE",
+                    "internationalAirTransportAssociation": "4C",
+                    "country": {
+                        "name": "Colômbia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Ecuador",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LNE",
+                    "internationalAirTransportAssociation": "XL",
+                    "country": {
+                        "name": "Equador"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Group",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LAN",
+                    "internationalAirTransportAssociation": "LA",
+                    "country": {
+                        "name": "Chile"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Paraguay",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LAP",
+                    "internationalAirTransportAssociation": "PZ",
+                    "country": {
+                        "name": "Paraguai"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Airlines Peru",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LPE",
+                    "internationalAirTransportAssociation": "LP",
+                    "country": {
+                        "name": "Peru"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Cargo Brasil",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LTG",
+                    "internationalAirTransportAssociation": "M3",
+                    "country": {
+                        "name": "Brasil"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LATAM Cargo Chile",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LCO",
+                    "internationalAirTransportAssociation": "UC",
+                    "country": {
+                        "name": "Chile"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Loong Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CDC",
+                    "internationalAirTransportAssociation": "GJ",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "LOT Polish Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LOT",
+                    "internationalAirTransportAssociation": "LO",
+                    "country": {
+                        "name": "Polônia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Lucky Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LKE",
+                    "internationalAirTransportAssociation": "8L",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Lufthansa",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DLH",
+                    "internationalAirTransportAssociation": "LH",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Lufthansa CityLine",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CLH",
+                    "internationalAirTransportAssociation": "CL",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Luxair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LGL",
+                    "internationalAirTransportAssociation": "LG",
+                    "country": {
+                        "name": "Luxemburgo"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Mahan Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "IRM",
+                    "internationalAirTransportAssociation": "W5",
+                    "country": {
+                        "name": "Irã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Malaysia Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MAS",
+                    "internationalAirTransportAssociation": "MH",
+                    "country": {
+                        "name": "Malásia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Malindo Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MXD",
+                    "internationalAirTransportAssociation": "OD",
+                    "country": {
+                        "name": "Malásia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Mandarin Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MDA",
+                    "internationalAirTransportAssociation": "AE",
+                    "country": {
+                        "name": "Taiwan"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Martinair Cargo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MPH",
+                    "internationalAirTransportAssociation": "MP",
+                    "country": {
+                        "name": "Holanda"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "MasAir",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MAA",
+                    "internationalAirTransportAssociation": "M7",
+                    "country": {
+                        "name": "México"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Mauritania Airlines International",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MAI",
+                    "internationalAirTransportAssociation": "L6",
+                    "country": {
+                        "name": "Mauritânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "MEA",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MEA",
+                    "internationalAirTransportAssociation": "ME",
+                    "country": {
+                        "name": "Líbano"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "MIAT Mongolian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MGL",
+                    "internationalAirTransportAssociation": "OM",
+                    "country": {
+                        "name": "Mongólia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "MNG Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MNB",
+                    "internationalAirTransportAssociation": "MB",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Montenegro Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MGX",
+                    "internationalAirTransportAssociation": "YM",
+                    "country": {
+                        "name": "Montenegro"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Myanmar Airways International",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MMA",
+                    "internationalAirTransportAssociation": "8M",
+                    "country": {
+                        "name": "Mianmar"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "National Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NCR",
+                    "internationalAirTransportAssociation": "N8",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "NCA Nippon Cargo Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NCA",
+                    "internationalAirTransportAssociation": "KZ",
+                    "country": {
+                        "name": "Japão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Neos",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NOS",
+                    "internationalAirTransportAssociation": "NO",
+                    "country": {
+                        "name": "Itália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Nesma Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NMA",
+                    "internationalAirTransportAssociation": "NE",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Nile Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NIA",
+                    "internationalAirTransportAssociation": "NP",
+                    "country": {
+                        "name": "Egito"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "NordStar",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TYA",
+                    "internationalAirTransportAssociation": "Y7",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Nordwind Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "NWS",
+                    "internationalAirTransportAssociation": "N4",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Nouvelair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "LBT",
+                    "internationalAirTransportAssociation": "BJ",
+                    "country": {
+                        "name": "Tunísia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Okay Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "OKA",
+                    "internationalAirTransportAssociation": "BK",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Olympic Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "OAL",
+                    "internationalAirTransportAssociation": "OA",
+                    "country": {
+                        "name": "Grécia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Oman Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "OMA",
+                    "internationalAirTransportAssociation": "WY",
+                    "country": {
+                        "name": "Omã"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Overland Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "OLA",
+                    "internationalAirTransportAssociation": "OF",
+                    "country": {
+                        "name": "Nigéria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Paranair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AZP",
+                    "internationalAirTransportAssociation": "ZP",
+                    "country": {
+                        "name": "Paraguai"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Pegas Fly",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "KAR",
+                    "internationalAirTransportAssociation": "EO",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Pegasus Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PGT",
+                    "internationalAirTransportAssociation": "PC",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "PGA-Portugalia Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PGA",
+                    "internationalAirTransportAssociation": "NI",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Philippine Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PAL",
+                    "internationalAirTransportAssociation": "PR",
+                    "country": {
+                        "name": "Filipinas"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "PIA Pakistan International Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PIA",
+                    "internationalAirTransportAssociation": "PK",
+                    "country": {
+                        "name": "Paquistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Polar Air Cargo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PAC",
+                    "internationalAirTransportAssociation": "PO",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Poste Air Cargo",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "MSA",
+                    "internationalAirTransportAssociation": "M4",
+                    "country": {
+                        "name": "Itália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Precision Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PRF",
+                    "internationalAirTransportAssociation": "PW",
+                    "country": {
+                        "name": "Tanzânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Privilege Style",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PVG",
+                    "internationalAirTransportAssociation": "P6",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Qantas",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "QFA",
+                    "internationalAirTransportAssociation": "QF",
+                    "country": {
+                        "name": "Austrália"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Qatar Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "QTR",
+                    "internationalAirTransportAssociation": "QR",
+                    "country": {
+                        "name": "Catar"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Qazaq Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "QAZ",
+                    "internationalAirTransportAssociation": "IQ",
+                    "country": {
+                        "name": "Cazaquistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Ravn Alaska",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ERH",
+                    "internationalAirTransportAssociation": "7H",
+                    "country": {
+                        "name": "Estados Unidos da América"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Rossiya Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SDM",
+                    "internationalAirTransportAssociation": "FV",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Royal Air Maroc",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RAM",
+                    "internationalAirTransportAssociation": "AT",
+                    "country": {
+                        "name": "Marrocos"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Royal Brunei",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RBA",
+                    "internationalAirTransportAssociation": "BI",
+                    "country": {
+                        "name": "Brunei"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Royal Jordanian",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RJA",
+                    "internationalAirTransportAssociation": "RJ",
+                    "country": {
+                        "name": "Jordânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Ruili Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RLH",
+                    "internationalAirTransportAssociation": "DR",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "RusLine",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RLU",
+                    "internationalAirTransportAssociation": "7R",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "RwandAir",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "RWD",
+                    "internationalAirTransportAssociation": "WB",
+                    "country": {
+                        "name": "Ruanda"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "S7 Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SBI",
+                    "internationalAirTransportAssociation": "S7",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Safair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SFR",
+                    "internationalAirTransportAssociation": "FA*",
+                    "country": {
+                        "name": "África do Sul"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SAS",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SAS",
+                    "internationalAirTransportAssociation": "SK",
+                    "country": {
+                        "name": "Suécia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SATA Air Acores",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SAT",
+                    "internationalAirTransportAssociation": "SP",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Saudi Arabian Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SVA",
+                    "internationalAirTransportAssociation": "SV",
+                    "country": {
+                        "name": "Arábia Saudita"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SCAT Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VSV",
+                    "internationalAirTransportAssociation": "DV",
+                    "country": {
+                        "name": "Cazaquistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SF Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSS",
+                    "internationalAirTransportAssociation": "O3",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Shandong Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CDG",
+                    "internationalAirTransportAssociation": "SC",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Shanghai Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSH",
+                    "internationalAirTransportAssociation": "FM",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Shenzhen Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSZ",
+                    "internationalAirTransportAssociation": "ZH",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Sichuan Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CSC",
+                    "internationalAirTransportAssociation": "3U",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Silk Way West Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AZG",
+                    "internationalAirTransportAssociation": "7L",
+                    "country": {
+                        "name": "Azerbaijão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Singapore Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SIA",
+                    "internationalAirTransportAssociation": "SQ",
+                    "country": {
+                        "name": "Singapura"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SKY Airline",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SKU",
+                    "internationalAirTransportAssociation": "H2",
+                    "country": {
+                        "name": "Chile"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Smartavia",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AUL",
+                    "internationalAirTransportAssociation": "5N",
+                    "country": {
+                        "name": "Rússia (Federação Russa)"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Solomon Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SOL",
+                    "internationalAirTransportAssociation": "IE",
+                    "country": {
+                        "name": "Ilhas Salomão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Somon Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SMR",
+                    "internationalAirTransportAssociation": "SZ",
+                    "country": {
+                        "name": "República do Tajiquistão"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "South African Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SAA",
+                    "internationalAirTransportAssociation": "SA",
+                    "country": {
+                        "name": "África do Sul"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SpiceJet",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SEJ",
+                    "internationalAirTransportAssociation": "SG",
+                    "country": {
+                        "name": "Índia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SriLankan Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ALK",
+                    "internationalAirTransportAssociation": "UL",
+                    "country": {
+                        "name": "Sri Lanka"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SunExpress",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SXS",
+                    "internationalAirTransportAssociation": "XQ*",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Suparna Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "YZR",
+                    "internationalAirTransportAssociation": "Y8",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Surinam Airways",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SLM",
+                    "internationalAirTransportAssociation": "PY",
+                    "country": {
+                        "name": "Suriname"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "SWISS",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SWR",
+                    "internationalAirTransportAssociation": "LX",
+                    "country": {
+                        "name": "Suíça"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Syrianair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "SYR",
+                    "internationalAirTransportAssociation": "RB",
+                    "country": {
+                        "name": "Síria"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "T'way Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TWB",
+                    "internationalAirTransportAssociation": "TW",
+                    "country": {
+                        "name": "República da Coreia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "TAAG Angola Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DTA",
+                    "internationalAirTransportAssociation": "DT",
+                    "country": {
+                        "name": "Angola"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "TACA",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TAI",
+                    "internationalAirTransportAssociation": "TA",
+                    "country": {
+                        "name": "El Salvador"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "TAP Portugal",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TAP",
+                    "internationalAirTransportAssociation": "TP",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "TAROM",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "ROT",
+                    "internationalAirTransportAssociation": "RO",
+                    "country": {
+                        "name": "Romênia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Tassili Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "DTH",
+                    "internationalAirTransportAssociation": "SF",
+                    "country": {
+                        "name": "Argélia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Thai Airways International",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "THA",
+                    "internationalAirTransportAssociation": "TG",
+                    "country": {
+                        "name": "Tailândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Thai Lion Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TLM",
+                    "internationalAirTransportAssociation": "SL",
+                    "country": {
+                        "name": "Tailândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Thai Smile",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "THD",
+                    "internationalAirTransportAssociation": "WE",
+                    "country": {
+                        "name": "Tailândia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Tianjin Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "GCR",
+                    "internationalAirTransportAssociation": "GS",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "TUIfly",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TUI",
+                    "internationalAirTransportAssociation": "X3*",
+                    "country": {
+                        "name": "Alemanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Tunisair",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "TAR",
+                    "internationalAirTransportAssociation": "TU",
+                    "country": {
+                        "name": "Tunísia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Turkish Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "THY",
+                    "internationalAirTransportAssociation": "TK",
+                    "country": {
+                        "name": "Turquia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Ukraine International Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "AUI",
+                    "internationalAirTransportAssociation": "PS",
+                    "country": {
+                        "name": "Ucrânia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "UNI AIR",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "UIA",
+                    "internationalAirTransportAssociation": "B7",
+                    "country": {
+                        "name": "Taiwan"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Vistara",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VTI",
+                    "internationalAirTransportAssociation": "UK",
+                    "country": {
+                        "name": "Índia"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Volaris",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VOI",
+                    "internationalAirTransportAssociation": "Y4*",
+                    "country": {
+                        "name": "México"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Volotea",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VOE",
+                    "internationalAirTransportAssociation": "V7",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Vueling",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "VLG",
+                    "internationalAirTransportAssociation": "VY",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Wamos Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "PLM",
+                    "internationalAirTransportAssociation": "EB",
+                    "country": {
+                        "name": "Espanha"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "West Air",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CHB",
+                    "internationalAirTransportAssociation": "PN",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "WestJet",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "WJA",
+                    "internationalAirTransportAssociation": "WS",
+                    "country": {
+                        "name": "Canadá"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "White coloured by you",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "WHT",
+                    "internationalAirTransportAssociation": "WI",
+                    "country": {
+                        "name": "Portugal"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Wideroe",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "WIF",
+                    "internationalAirTransportAssociation": "WF",
+                    "country": {
+                        "name": "Noruega"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "Xiamen Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "CXA",
+                    "internationalAirTransportAssociation": "MF",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                },
+                {
+                    "name": "YTO Cargo Airlines",
+                    "cnpj": null,
+                    "internationalCivilAviationOrganization": "HYT",
+                    "internationalAirTransportAssociation": "YG",
+                    "country": {
+                        "name": "China"
+                    },
+                    "focalName": null,
+                    "phoneNumber": null,
+                    "email": null
+                }
+            ]
+        }
+    }
+}

@@ -1,56 +1,52 @@
 from accessibility_practice.accessibility_practice import AccessibilityPracticeProcessor
+from airline_operator.airline_operator import AirlineOperatorProcessor
+from airport_operator.airport_operator import AirportOperatorProcessor
+from comparator.comparator import Comparator
+
 import pandas as pd
 import json
 
-def compare_data(data_compair, json_df):
-    number_of_failures = 0
+RELATIVE_PATH = 'data/airport_operator/'
+CSV_PATH = RELATIVE_PATH + 'airport_operator.csv'
+JSON_PATH = RELATIVE_PATH + 'airport_operator.json'
+KEY_COMPARATOR = 'name'
 
-    for idx, (json_row, csv_row) in enumerate(zip(json_df.itertuples(index=False), data_compair.itertuples(index=False))):
-        for col, (json_value, csv_value) in enumerate(zip(json_row, csv_row)):            
-            # Check if both values are not None
-            if json_value is not None and csv_value is not None:
-                json_normalized_value = str(json_value).lower().strip().replace('\n', '').replace('\r', '')
-                csv_normalized_value = str(csv_value).lower().strip().replace('\n', '').replace('\r', '')
+def main():
+    # Read a CSV file
+    csv_data = pd.read_csv(CSV_PATH)
 
-                if json_normalized_value != csv_normalized_value:
-                    print(f"1: Row {idx + 1} | Code Practice = {json_row[0]} | Column '{json_df.columns[col]}'. \n\nJSON = {json_normalized_value}\nCSVV = {csv_normalized_value}\n")
-                    number_of_failures += 1
+    # Read a JSON file
+    with open(JSON_PATH, encoding='utf-8') as json_file:
+        json_data = json.load(json_file)
 
-            # If both values are None, they are considered equal
-            elif json_value is None and csv_value is None:
-                continue
-            
-            # If one of the values is None, it is considered a failure
-            else:
-                print(f"2: Row {idx + 1} | Code Practice = {json_row[0]} | Column '{json_df.columns[col]}'. \n\nJSON = {json_value}\nCSVV = {csv_value}\n")
-                number_of_failures += 1
+    # Normalize data
+    csv_data = normalize_csv_data(csv_data)
+    json_data = normalize_json_data(json_data)
 
-    return number_of_failures
+    Comparator(json_data, csv_data, KEY_COMPARATOR).compare_data()
+
+    return
 
 
-def validate_data():
-    csv_path = 'data/data_compair.csv'
-    json_path = 'data/response_api.json'
-
-    data_compair = pd.read_csv(csv_path)
-
+def normalize_csv_data(csv_data):
     # Converting all NaN values to None
-    data_compair = data_compair.where(pd.notna(data_compair), None)
+    csv_data = csv_data.where(pd.notna(csv_data), None)
 
-    with open(json_path, encoding='utf-8') as json_file:
-        accessibility_practices = json.load(json_file)
+    # Converting all '-' values to None
+    csv_data.replace('-', None, inplace=True)
 
-    accessibility_practices_processed = AccessibilityPracticeProcessor(accessibility_practices).pre_processor()
+    return csv_data
+
+def normalize_json_data(json_data):
+    json_data_processed = AirportOperatorProcessor(json_data).pre_processor()
 
     # Write the Acessibility Practices Dto in a new file
-    with open('data/response_api_modified.json', 'w', encoding='utf-8') as json_file:
-        json.dump(accessibility_practices_processed, json_file, ensure_ascii=False, indent=2)
+    with open(RELATIVE_PATH + 'response_api_modified.json', 'w', encoding='utf-8') as json_file:
+        json.dump(json_data_processed, json_file, ensure_ascii=False, indent=2)
 
     # Converting JSON to a DataFrame
-    json_df = pd.DataFrame(accessibility_practices_processed)   
+    json_df = pd.DataFrame(json_data_processed)
 
-    # Comparing data
-    number_of_failures = compare_data(data_compair, json_df)
-    print(f"\nAnalysis completed with {number_of_failures} failures.")
+    return json_df
 
-validate_data()
+main()
