@@ -1,0 +1,2206 @@
+{
+  "data": {
+    "airports": {
+      "totalPages": 1,
+      "totalAirports": 61,
+      "data": [
+        {
+          "name": "AEROPORTO CAMPO DE MARTE",
+          "city": {
+            "name": "São Carlos",
+            "state": {
+              "acronym": "SP"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBMT",
+          "internationalAirTransportAssociation": "RTE",
+          "totalArea": 0,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "XP Infra",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO CATARATAS",
+          "city": {
+            "name": "Foz do Iguaçu",
+            "state": {
+              "acronym": "PR"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBFI",
+          "internationalAirTransportAssociation": "IGU",
+          "totalArea": 21750,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO COMANDANTE GUSTAVO KRAEMER",
+          "city": {
+            "name": "Bagé",
+            "state": {
+              "acronym": "RS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBBG",
+          "internationalAirTransportAssociation": "BGX",
+          "totalArea": 532,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO DE BACACHERI",
+          "city": {
+            "name": "Curitiba",
+            "state": {
+              "acronym": "PR"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBBI",
+          "internationalAirTransportAssociation": "BFH",
+          "totalArea": 0,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO DE CRUZEIRO DO SUL",
+          "city": {
+            "name": "Cruzeiro do Sul",
+            "state": {
+              "acronym": "AC"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCZ",
+          "internationalAirTransportAssociation": "CZS",
+          "totalArea": 3500,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO DE MACAÉ",
+          "city": {
+            "name": "Macaé",
+            "state": {
+              "acronym": "RJ"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBME",
+          "internationalAirTransportAssociation": "MEA",
+          "totalArea": 10539,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Zurich Airport",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO GOVERNADOR JOSÉ RICHA",
+          "city": {
+            "name": "Londrina",
+            "state": {
+              "acronym": "PR"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBLO",
+          "internationalAirTransportAssociation": "LDB",
+          "totalArea": 5945,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO INTERNACIONAL DE PELOTAS - JOÃO SIMÕES LOPES NETO",
+          "city": {
+            "name": "Pelotas",
+            "state": {
+              "acronym": "RS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPK",
+          "internationalAirTransportAssociation": "PET",
+          "totalArea": 219,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO INTERNACIONAL DE PONTA PORÃ",
+          "city": {
+            "name": "Ponta Porã",
+            "state": {
+              "acronym": "MS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPP",
+          "internationalAirTransportAssociation": "PMG",
+          "totalArea": 0,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO INTERNACIONAL DE SÃO PAULO/GUARULHOS - GOVERNADOR ANDRÉ FRANCO MONTORO",
+          "city": {
+            "name": "Guarulhos",
+            "state": {
+              "acronym": "SP"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBGR",
+          "internationalAirTransportAssociation": "GRU",
+          "totalArea": 387000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GRU Airport",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO INTERNACIONAL DO RIO DE JANEIRO/GALEÃO - ANTONIO CARLOS JOBIM",
+          "city": {
+            "name": "Rio de Janeiro",
+            "state": {
+              "acronym": "RJ"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBGL",
+          "internationalAirTransportAssociation": "GIG",
+          "totalArea": 258300,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "RioGaleão",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO LAURO CARNEIRO DE LOYOLA",
+          "city": {
+            "name": "Joinville",
+            "state": {
+              "acronym": "SC"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBJV",
+          "internationalAirTransportAssociation": "JOI",
+          "totalArea": 3203.97,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO MINISTRO VICTOR KONDER",
+          "city": {
+            "name": "Navegantes",
+            "state": {
+              "acronym": "SC"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBNF",
+          "internationalAirTransportAssociation": "NVT",
+          "totalArea": 14448,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AEROPORTO RUBEM BERTA",
+          "city": {
+            "name": "Uruguaiana",
+            "state": {
+              "acronym": "RS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBUG",
+          "internationalAirTransportAssociation": "URG",
+          "totalArea": 1199,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "AFONSO PENA",
+          "city": {
+            "name": "São José dos Pinhais",
+            "state": {
+              "acronym": "PR"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCT",
+          "internationalAirTransportAssociation": "CWB",
+          "totalArea": 112176,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "ALBERTO ALCOLUMBRE",
+          "city": {
+            "name": "Macapá",
+            "state": {
+              "acronym": "AP"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBMQ",
+          "internationalAirTransportAssociation": "MCP",
+          "totalArea": 27204.8,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "ALTAMIRA",
+          "city": {
+            "name": "Altamira",
+            "state": {
+              "acronym": "PA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBHT",
+          "internationalAirTransportAssociation": "ATM",
+          "totalArea": 648,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "ATLAS BRASIL CANTANHEDE",
+          "city": {
+            "name": "Boa Vista",
+            "state": {
+              "acronym": "RR"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBBV",
+          "internationalAirTransportAssociation": "BVB",
+          "totalArea": 4798,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "BRIGADEIRO LYSIAS RODRIGUES",
+          "city": {
+            "name": "Palmas",
+            "state": {
+              "acronym": "TO"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPJ",
+          "internationalAirTransportAssociation": "PMW",
+          "totalArea": 12331,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "CAMPO GRANDE",
+          "city": {
+            "name": "Campo Grande",
+            "state": {
+              "acronym": "MS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCG",
+          "internationalAirTransportAssociation": "CGR",
+          "totalArea": 7215.11,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "CARAJÁS",
+          "city": {
+            "name": "Parauapebas",
+            "state": {
+              "acronym": "PA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCJ",
+          "internationalAirTransportAssociation": "CKS",
+          "totalArea": 800,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "CONGONHAS",
+          "city": {
+            "name": "São Paulo",
+            "state": {
+              "acronym": "SP"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSP",
+          "internationalAirTransportAssociation": "CGH",
+          "totalArea": 64579,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "CORUMBÁ",
+          "city": {
+            "name": "Corumbá",
+            "state": {
+              "acronym": "MS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCR",
+          "internationalAirTransportAssociation": "CMG",
+          "totalArea": 2403,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "DEPUTADO LUÍS EDUARDO MAGALHÃES",
+          "city": {
+            "name": "Salvador",
+            "state": {
+              "acronym": "BA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSV",
+          "internationalAirTransportAssociation": "SSA",
+          "totalArea": 69750,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "EDUARDO GOMES",
+          "city": {
+            "name": "Manaus",
+            "state": {
+              "acronym": "AM"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBEG",
+          "internationalAirTransportAssociation": "MAO",
+          "totalArea": 79501.59,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "EURICO DE AGUIAR SALLES",
+          "city": {
+            "name": "Vitória",
+            "state": {
+              "acronym": "ES"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBVT",
+          "internationalAirTransportAssociation": "VIX",
+          "totalArea": 31850,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Zurich Airport",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "GLAUBER DE ANDRADE ROCHA",
+          "city": {
+            "name": "Vitória da Conquista",
+            "state": {
+              "acronym": "BA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBVC",
+          "internationalAirTransportAssociation": "VDC",
+          "totalArea": 5608,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "SOCICAM",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "GOVERNADOR ALUIZIO ALVES",
+          "city": {
+            "name": "São Gonçalo do Amarante",
+            "state": {
+              "acronym": "RN"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSG",
+          "internationalAirTransportAssociation": "NAT",
+          "totalArea": 50476,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Inframérica",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "GOVERNADOR JORGE TEIXEIRA DE OLIVEIRA",
+          "city": {
+            "name": "Porto Velho",
+            "state": {
+              "acronym": "RO"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPV",
+          "internationalAirTransportAssociation": "PVH",
+          "totalArea": 7875,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "GUARARAPES - GILBERTO FREYRE",
+          "city": {
+            "name": "Recife",
+            "state": {
+              "acronym": "PE"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBRF",
+          "internationalAirTransportAssociation": "REC",
+          "totalArea": 32056,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "HERCÍLIO LUZ",
+          "city": {
+            "name": "Florianópolis",
+            "state": {
+              "acronym": "SC"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBFL",
+          "internationalAirTransportAssociation": "FLN",
+          "totalArea": 49000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Zurich Airport",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "INTERNACIONAL DE BELÉM/VAL DE CANS/JÚLIO CEZAR RIBEIRO",
+          "city": {
+            "name": "Belém",
+            "state": {
+              "acronym": "PA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBBE",
+          "internationalAirTransportAssociation": "BEL",
+          "totalArea": 22737,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "JACAREPAGUÁ",
+          "city": {
+            "name": "Rio de Janeiro",
+            "state": {
+              "acronym": "RJ"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBJR",
+          "internationalAirTransportAssociation": "QJR",
+          "totalArea": 373.28,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "XP Infra",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "JOÃO CORREA DA ROCHA",
+          "city": {
+            "name": "Marabá",
+            "state": {
+              "acronym": "PA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBMA",
+          "internationalAirTransportAssociation": "MAB",
+          "totalArea": 2236,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "MAESTRO WILSON FONSECA",
+          "city": {
+            "name": "Santarém",
+            "state": {
+              "acronym": "PA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSN",
+          "internationalAirTransportAssociation": "STM",
+          "totalArea": 1607,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "MARECHAL CUNHA MACHADO",
+          "city": {
+            "name": "São Luís",
+            "state": {
+              "acronym": "MA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSL",
+          "internationalAirTransportAssociation": "SLZ",
+          "totalArea": 10700,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "MARECHAL RONDON",
+          "city": {
+            "name": "Várzea Grande",
+            "state": {
+              "acronym": "MT"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCY",
+          "internationalAirTransportAssociation": "CGB",
+          "totalArea": 17000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "MARIO DE ALMEIDA FRANCO",
+          "city": {
+            "name": "Uberaba",
+            "state": {
+              "acronym": "MG"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBUR",
+          "internationalAirTransportAssociation": "UBA",
+          "totalArea": 2000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "MÁRIO RIBEIRO",
+          "city": {
+            "name": "Montes Claros",
+            "state": {
+              "acronym": "MG"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBMK",
+          "internationalAirTransportAssociation": "MOC",
+          "totalArea": 1200,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "ORLANDO BEZERRA DE MENEZES",
+          "city": {
+            "name": "Juazeiro do Norte",
+            "state": {
+              "acronym": "CE"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBJU",
+          "internationalAirTransportAssociation": "JDO",
+          "totalArea": 2500,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PILOTO OSVALDO MARQUES DIAS",
+          "city": {
+            "name": "Alta Floresta",
+            "state": {
+              "acronym": "MT"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBAT",
+          "internationalAirTransportAssociation": "AFL",
+          "totalArea": 900,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PINTO MARTINS",
+          "city": {
+            "name": "Fortaleza",
+            "state": {
+              "acronym": "CE"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBFZ",
+          "internationalAirTransportAssociation": "FOR",
+          "totalArea": 72000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Fraport",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PLÁCIDO DE CASTRO",
+          "city": {
+            "name": "Rio Branco",
+            "state": {
+              "acronym": "AC"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBRB",
+          "internationalAirTransportAssociation": "RBR",
+          "totalArea": 12800,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PORTO SEGURO",
+          "city": {
+            "name": "Porto Seguro",
+            "state": {
+              "acronym": "BA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPS",
+          "internationalAirTransportAssociation": "BPS",
+          "totalArea": 5500,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Sinart",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PREFEITO RENATO MOREIRA",
+          "city": {
+            "name": "Imperatriz",
+            "state": {
+              "acronym": "MA"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBIZ",
+          "internationalAirTransportAssociation": "IMP",
+          "totalArea": 2323.08,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PRESIDENTE CASTRO PINTO",
+          "city": {
+            "name": "Bayeux",
+            "state": {
+              "acronym": "PB"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBJP",
+          "internationalAirTransportAssociation": "JPA",
+          "totalArea": 9464,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PRESIDENTE JOÃO BATISTA FIGUEIREDO",
+          "city": {
+            "name": "Sinop",
+            "state": {
+              "acronym": "MT"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBSI",
+          "internationalAirTransportAssociation": "OPS",
+          "totalArea": 1130,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PRESIDENTE JOÃO SUASSUNA",
+          "city": {
+            "name": "Campina Grande",
+            "state": {
+              "acronym": "PB"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBKG",
+          "internationalAirTransportAssociation": "CPV",
+          "totalArea": 1900,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "PRESIDENTE JUSCELINO KUBITSCHEK",
+          "city": {
+            "name": "Brasília",
+            "state": {
+              "acronym": "DF"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBBR",
+          "internationalAirTransportAssociation": "BSB",
+          "totalArea": 113300,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Inframérica",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "RONDONÓPOLIS",
+          "city": {
+            "name": "Rondonópolis",
+            "state": {
+              "acronym": "MT"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBRD",
+          "internationalAirTransportAssociation": "ROO",
+          "totalArea": 910,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Centro-Oeste Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "SALGADO FILHO",
+          "city": {
+            "name": "Porto Alegre",
+            "state": {
+              "acronym": "RS"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPA",
+          "internationalAirTransportAssociation": "POA",
+          "totalArea": 51936,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Fraport",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "SANTA GENOVEVA/GOIÂNIA",
+          "city": {
+            "name": "Goiânia",
+            "state": {
+              "acronym": "GO"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBGO",
+          "internationalAirTransportAssociation": "GYN",
+          "totalArea": 30870,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "SANTA MARIA",
+          "city": {
+            "name": "Aracaju",
+            "state": {
+              "acronym": "SE"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBAR",
+          "internationalAirTransportAssociation": "AJU",
+          "totalArea": 10714,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "SENADOR NILO COELHO",
+          "city": {
+            "name": "Petrolina",
+            "state": {
+              "acronym": "PE"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBPL",
+          "internationalAirTransportAssociation": "PNZ",
+          "totalArea": 3344,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "SENADOR PETRÔNIO PORTELLA",
+          "city": {
+            "name": "Teresina",
+            "state": {
+              "acronym": "PI"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBTE",
+          "internationalAirTransportAssociation": "THE",
+          "totalArea": 4263.38,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "CCR Aeroportos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "TABATINGA",
+          "city": {
+            "name": "Tabatinga",
+            "state": {
+              "acronym": "AM"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBTT",
+          "internationalAirTransportAssociation": "TBT",
+          "totalArea": 5221,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "TANCREDO NEVES",
+          "city": {
+            "name": "Confins",
+            "state": {
+              "acronym": "MG"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBCF",
+          "internationalAirTransportAssociation": "CNF",
+          "totalArea": 121695,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "BH Airport",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "TEFÉ",
+          "city": {
+            "name": "Tefé",
+            "state": {
+              "acronym": "AM"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBTF",
+          "internationalAirTransportAssociation": "TFF",
+          "totalArea": 4001.71,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "VINCI Airports",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "TEN CEL AVIADOR CÉSAR BOMBONATO",
+          "city": {
+            "name": "Uberlândia",
+            "state": {
+              "acronym": "MG"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBUL",
+          "internationalAirTransportAssociation": "UDI",
+          "totalArea": 4733,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "VIRACOPOS",
+          "city": {
+            "name": "Campinas",
+            "state": {
+              "acronym": "SP"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBKP",
+          "internationalAirTransportAssociation": "VCP",
+          "totalArea": 163366,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "Aeroportos Brasil Viracopos",
+              "type": "AIRPORT_OPERATOR"
+            }
+          ]
+        },
+        {
+          "name": "ZUMBI DOS PALMARES",
+          "city": {
+            "name": "Rio Largo",
+            "state": {
+              "acronym": "AL"
+            }
+          },
+          "internationalCivilAviationOrganization": "SBMO",
+          "internationalAirTransportAssociation": "MCZ",
+          "totalArea": 22000,
+          "capacity": 0,
+          "amountOfDomesticTerminals": 1,
+          "amountOfInternationalTerminals": 0,
+          "focalName": null,
+          "phoneNumber": null,
+          "email": null,
+          "operatorCompanies": [
+            {
+              "name": "Aena Brasil",
+              "type": "AIRPORT_OPERATOR"
+            },
+            {
+              "name": "Azul Brazilian Airlines",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "GOL Linhas Aereas",
+              "type": "AIRLINE_OPERATOR"
+            },
+            {
+              "name": "LATAM Airlines Brasil",
+              "type": "AIRLINE_OPERATOR"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

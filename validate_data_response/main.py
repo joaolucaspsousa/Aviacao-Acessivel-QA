@@ -1,12 +1,14 @@
-from accessibility_practice.accessibility_practice import AccessibilityPracticeProcessor
+from airport_unit.airport_unit import AirportUnitProcessor
 from airline_operator.airline_operator import AirlineOperatorProcessor
 from airport_operator.airport_operator import AirportOperatorProcessor
+from accessibility_practice.accessibility_practice import AccessibilityPracticeProcessor
+
 from comparator.comparator import Comparator
 
 import pandas as pd
 import json
 
-CURRENT_ENTITY = 'airport_operator'
+CURRENT_ENTITY = 'airport_unit'
 RELATIVE_PATH = CURRENT_ENTITY + '/data/'
 CSV_PATH = RELATIVE_PATH + CURRENT_ENTITY + '.csv'
 JSON_PATH = RELATIVE_PATH + CURRENT_ENTITY + '.json'
@@ -52,7 +54,11 @@ def normalize_json_data(json_data):
 def processor_json_based_entity(json_data, entity):
     global KEY_COMPARATOR
 
-    if entity == 'airline_operator':
+    if entity == 'airport_unit':
+        KEY_COMPARATOR = 'name'
+        return AirportUnitProcessor(json_data).pre_processor()
+
+    elif entity == 'airline_operator':
         KEY_COMPARATOR = 'name'
         return AirlineOperatorProcessor(json_data).pre_processor()
     
