@@ -8,7 +8,7 @@ from comparator.comparator import Comparator
 import pandas as pd
 import json
 
-CURRENT_ENTITY = 'airport_unit'
+CURRENT_ENTITY = 'accessibility_practice'
 RELATIVE_PATH = CURRENT_ENTITY + '/data/'
 CSV_PATH = RELATIVE_PATH + CURRENT_ENTITY + '.csv'
 JSON_PATH = RELATIVE_PATH + CURRENT_ENTITY + '.json'

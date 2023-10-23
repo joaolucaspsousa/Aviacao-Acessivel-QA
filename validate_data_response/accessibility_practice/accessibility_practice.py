@@ -23,6 +23,8 @@ class AccessibilityPracticeProcessor:
         group = accessibility_practice['dimensionGroup']['name']
         scope = self.get_scope(accessibility_practice)
         coverage = accessibility_practice['accessibilityPracticeTypeScopes'][0]['operatorScope']
+        show_to_passenger = accessibility_practice['showToPassenger']
+        alias_name_to_passenger = accessibility_practice['aliasNameToPassenger']
         name = accessibility_practice['name']
         description = accessibility_practice['description']
         dispensable_by = accessibility_practice['dispensableBy']
@@ -35,7 +37,7 @@ class AccessibilityPracticeProcessor:
         guidance = accessibility_practice['requireLegalGuidanceExternalAgency']
         references = accessibility_practice['legalPrescriptiveReferences']
 
-        return AirlineOperatorDto(practice_code, dimension, group, scope, coverage, name, description, dispensable_by, prescriptive, level1, level2, level3, level4, level5, guidance, references)
+        return AirlineOperatorDto(practice_code, dimension, group, scope, coverage, show_to_passenger, alias_name_to_passenger, name, description, dispensable_by, prescriptive, level1, level2, level3, level4, level5, guidance, references)
 
     def pre_processor(self):
         accessibility_practices_modified = []
